@@ -4,8 +4,8 @@
 
  <rect width="100%" height="100%" fill="white" />
 
-<polygon points="150, 18 244, 182 56, 182" fill="green" />
+<circle cx="150" cy="100" r="80" fill="Green" />
 
- <text x="150" y="125" font-size="60" text-anchor="middle" fill="red">sdf</text>
+ <text x="150" y="125" font-size="60" text-anchor="middle" fill="Blue">JJJ</text>
 
 </svg>
