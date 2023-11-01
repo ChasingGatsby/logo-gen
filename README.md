@@ -18,7 +18,8 @@
   Ensure that jest and inquirer v8.2.4 is installed before running this application.
 
   ## Usage
-  
+  ### Video Guide
+  https://drive.google.com/file/d/1xlFHjrdbcaV-CwK-ovX6JvR3R-yqLNB1/view
 
   ## Contributions
   Feel free to contact me.

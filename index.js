@@ -32,7 +32,6 @@ function init() {
   promptUser()
     .then((answers) => writeFile("examples/sample.svg", generateSVG(answers)))
     .then(() => console.log("Generated logo.svg"))
-    .then(()=> console.log(prompt))
     .catch((err) => console.log(err));
 }
 
